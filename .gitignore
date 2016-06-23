@@ -1,3 +1,6 @@
+# Things that are not necessary to version
+resources/test.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
